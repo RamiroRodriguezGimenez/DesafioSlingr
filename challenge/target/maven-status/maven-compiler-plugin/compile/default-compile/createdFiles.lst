@@ -1,0 +1,4 @@
+challenge\com\Entities\Calculus.class
+challenge\com\Services\CalculatorService.class
+challenge\com\CalcController\CalculatorController.class
+challenge\com\ChallengeApplication.class
